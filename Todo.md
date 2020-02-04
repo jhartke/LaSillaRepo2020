@@ -15,7 +15,9 @@
   - during the day, and
   - during the night
 - Preparation of OBs with the ESO p2 tool^[https://www.eso.org/p2ls/login]
-- Preparation of target list with DFOSC and estimation of overheads
+- Preparation of target list with DFOSC
+  - estimation of overheads
+  - creation of finding charts
 - Preparation of the calibration OBs and selection of standard fields for DFOSC
 - Filter lists for EFOSC and DFOSC
 
