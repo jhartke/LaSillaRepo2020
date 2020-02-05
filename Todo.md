@@ -14,6 +14,7 @@
 - Decide which calibrations need to be taken
   - during the day, and
   - during the night
+    - reference for standard star fields: https://www.eso.org/sci/facilities/lasilla/instruments/efosc/doc/PhotStds.pdf
 - Preparation of OBs with the ESO p2 tool^[https://www.eso.org/p2ls/login]
 - Preparation of target list with DFOSC
   - estimation of overheads
