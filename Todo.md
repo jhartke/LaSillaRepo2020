@@ -23,12 +23,15 @@
 - Filter lists for EFOSC and DFOSC
 
 ### Thursday 6 February
-- Familiarisation with the EFOSC2 data reduction
-- Familiarisation with IRAF tools
+- ESO archival data in case of bad weather
 - Preparation of back-up targets:
   - See for example here for very bright galaxies: http://www.ls.eso.org/sci/facilities/lasilla/instruments/efosc/Gallery/
   - You can also query NED or SIMBAD in a given RA, dec range for galaxies with visual mag of 10 < V < 11.
 
 ### Friday 7 February
-- ESO archival data in case of bad weather
+- Familiarisation with the EFOSC2 data reduction: 
+  - Manual: ftp://ftp.eso.org/pub/dfs/pipelines/instruments/efosc/efosc-pipeline-manual-1.1.pdf
+  - Tutorial for reducing imaging data: ftp://ftp.eso.org/pub/dfs/pipelines/instruments/efosc/efosc-img-reflex-tutorial-1.1.pdf
+- Familiarisation with IRAF tools
+  - In case you never have used it, here is a neat overview of its functionalities: http://mips.as.arizona.edu/~khainline/intro_to_IRAF.html
 - Ellipse fitting with photutils
