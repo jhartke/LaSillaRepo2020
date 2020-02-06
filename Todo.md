@@ -25,7 +25,9 @@
 ### Thursday 6 February
 - Familiarisation with the EFOSC2 data reduction
 - Familiarisation with IRAF tools
-- Preparation of back-up targets
+- Preparation of back-up targets:
+  - See for example here for very bright galaxies: http://www.ls.eso.org/sci/facilities/lasilla/instruments/efosc/Gallery/
+  - You can also query NED or SIMBAD in a given RA, dec range for galaxies with visual mag of 10 < V < 11.
 
 ### Friday 7 February
 - ESO archival data in case of bad weather
