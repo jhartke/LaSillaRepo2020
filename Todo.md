@@ -35,3 +35,16 @@
 - Familiarisation with IRAF tools
   - In case you never have used it, here is a neat overview of its functionalities: http://mips.as.arizona.edu/~khainline/intro_to_IRAF.html
 - Ellipse fitting with photutils
+
+### Before our first night:
+- Do we have finding charts for all targets?
+  - EFOSC2?
+  - DFOSC?
+- Do we have an observation schedule for each of the nights and the ?
+- Make a Calibration plan:
+  - Bias in the afternoon / morning
+  - Domeflats in the afternoon / morning
+  - Flatfields in the evening (6 filters at EFOSC, 5 Filters at DFOSC, coordinate with the other groups)
+  - Standard stars in coordination with group 1a
+- Who copies the data from DFOSC? (The EFOSC2 data will be in the ESO archive to be downloaded right away)
+
