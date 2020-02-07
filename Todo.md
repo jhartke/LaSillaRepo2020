@@ -40,11 +40,12 @@
 - Do we have finding charts for all targets?
   - EFOSC2?
   - DFOSC?
-- Do we have an observation schedule for each of the nights and the ?
+- Do we have an observation schedule for each of the nights and each of the telescopes?
+- Check the EFOSC OBs one last time
 - Make a Calibration plan:
   - Bias in the afternoon / morning
   - Domeflats in the afternoon / morning
   - Flatfields in the evening (6 filters at EFOSC, 5 Filters at DFOSC, coordinate with the other groups)
-  - Standard stars in coordination with group 1a
+  - Standard stars in coordination with group 1b
 - Who copies the data from DFOSC? (The EFOSC2 data will be in the ESO archive to be downloaded right away)
 
