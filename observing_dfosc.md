@@ -81,11 +81,11 @@ Night (2):
 
 | Time | Target | Filter | Exposure time | Seeing | Transparency | Notes about other conditions | Calibration? | Observed? |
 |------|--------|--------|---------------|--------|--------------|------------------------------|--------------|-----------|
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
+|  0:37:57    |  SA 95-107       |    B    |    120           |    0.81    |      clear        |    really low counts                           |              |     yes      |
+|  0:46:56    |   SA 95-107      |   V     |        100       |    0.81    |      clear        |                              |              |      yes     |
+|  0:52:08    |   SA 95-107      |    R   |       100        |    0.78    |     clear         |                              |              |    yes       |
+|   0:55:47   |   SA 95-107      |    I    |       100        |    0.78    |       clear       |                              |              |    yes       |
+|    0:58:39  |   SA 95-107      |    B    |       160        |     0.87   |       clear       |          we repeat B for getting more counts                    |              |      yes     |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
