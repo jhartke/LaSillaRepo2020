@@ -128,8 +128,8 @@ Night (2):
 | 4:52:00     |  NGC3265      |   B     |      95         |    0.63    |    Cloudy          |      low counts                        |        no      |      yes     |
 | 4:58:30     |  NGC3265      |   B     |     95          |   0.68     |              |                              |              |           |
 |   5:12:30   |  NGC2997      |   B     |    60           |    0.68    |      Cloudy        |       low counts                     |        no      |      yes     |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
+|   08:15:23   |  eso219-g021      |   V     |     240          |        |     Cloudy         |       low counts                       |              |           |
+|      |    ngc4930    |     V   |       100        |        |              |                              |     low counts         |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
