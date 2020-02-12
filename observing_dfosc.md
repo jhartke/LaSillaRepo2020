@@ -81,11 +81,39 @@ Night (2):
 
 | Time | Target | Filter | Exposure time | Seeing | Transparency | Notes about other conditions | Calibration? | Observed? |
 |------|--------|--------|---------------|--------|--------------|------------------------------|--------------|-----------|
-|  0:37:57    |  SA 95-107       |    B    |    120           |    0.81    |      clear        |    really low counts                           |              |     yes      |
-|  0:46:56    |   SA 95-107      |   V     |        100       |    0.81    |      clear        |                              |              |      yes     |
-|  0:52:08    |   SA 95-107      |    R   |       100        |    0.78    |     clear         |                              |              |    yes       |
-|   0:55:47   |   SA 95-107      |    I    |       100        |    0.78    |       clear       |                              |              |    yes       |
-|    0:58:39  |   SA 95-107      |    B    |       160        |     0.87   |       clear       |          we repeat B for getting more counts                    |              |      yes     |
+|  0:37:57    |  SA 95-107       |    B    |    120           |    0.81    |      clear        |    really low counts                           |     yes         |     yes      |
+|  0:46:56    |   SA 95-107      |   V     |        100       |    0.81    |      clear        |                              |    yes          |      yes     |
+|  0:52:08    |   SA 95-107      |    R   |       100        |    0.78    |     clear         |                              |        yes      |    yes       |
+|   0:55:47   |   SA 95-107      |    I    |       100        |    0.78    |       clear       |                              |     yes         |    yes       |
+|    0:58:39  |   SA 95-107      |    B    |       160        |     0.87   |       clear       |          we repeat B for getting more counts                    |      yes        |      yes     |
+|   01:02:56   |   SA 95-107       |     Ha   |      320         |    1.09    |     clear         |                              |        yes      |      yes     |
+|   01:14:07   |   NGC2217     |    B    |      80         |    0.87    |        clear      |            low counts                  |       no       |     yes      |
+|    01:17:13  |   NGC2217      |    B    |       300        |    0.82    |         clear     |                              |              |           |
+
+|    01:23:30  |   NGC2217      |    B    |        300       |   0.82     |         clear     |             offset 7" RA+                 |      yes        |     no      |
+|    01:29:33  |   NGC2217      |    B    |    300           |        |       clear       |           offset t" DEC-                   |       no        |      yes     |
+|  01:36:24    |   NGC2217      |    V    |        100       |    0.96    |      clear        |                              |       no       |     yes      |
+|      |    NGC2217     |        |               |        |              |                              |              |           |
+|      |    NGC2217     |        |               |        |              |                              |              |           |
+|      |   NGC2217      |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
+|      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
