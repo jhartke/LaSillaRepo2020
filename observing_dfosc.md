@@ -94,19 +94,19 @@ Night (2):
 |  01:36:24    |   NGC2217      |    V    |        100       |    0.96    |      clear        |          low counts                    |       no       |     yes      |
 |   01:39:26   |    NGC2217     |     V   |      200         |        |        clear      |                              |          no    |     yes      |
 |   01:44:27   |    NGC2217     |    V    |       200        |        |        clear      |          offset 7" RA+                    |     no         |     yes      |
-|      |   NGC2217      |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
-|      |        |        |               |        |              |                              |              |           |
+|    01:49:05  |   NGC2217      |    V    |     200          |     0.87   |      clear        |         offset 7" DEC-                     |              |           |
+|   01:54:47   |    NGC2217    |     R   |       200        |        0.81|       clear       |                              |          no    |      yes     |
+|    01:59:17  |   NGC2217     |    R    |       200        |        |       clear       |             offset 7" RA+                 |    no          |    yes       |
+|    02:03:23  |    NGC2217     |     R   |       200        |        |      clear        |          offset 7" DEC-                    |      no        |     yes      |
+|   02:09:21   |    NGC2217    |     I   |      200         |    0.95    |      clear        |                              |         no     |     yes      |
+|    02:13:38  |   NGC2217      |    I    |        200       |     0.95   |      clear        |       offset 7" RA+                       |              |           |
+|   02:17:42   |   NGC2217      |    I    |        200       |    1.15    |     clear         |       offset 7" DEC-                      |      no       |      yes     |
+|   02:22:55   |   NGC2217     |     Ha   |         300      |    1.1    |       clear       |                              |         no     |     yes      |
+|   2:29:27   |    NGC2217     |    Ha    |         300      |        |        clear      |        offset 7" RA+                      |      no        |       yes    |
+|   02:35:10   |     NGC2217     |    Ha    |        300       |        |      clear        |      offset 7" DEC                        |              |           |
+|   20:56:20   |    ESO482G005    |    V    |      300         |        |       clear       |         offset 7" RA+                     |      no       |     yes     |
+|      |    ESO482G005     |    V    |       300        |        |              |                              |              |           |
+|      |    ESO482G005     |    V    |      300         |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
 |      |        |        |               |        |              |                              |              |           |
