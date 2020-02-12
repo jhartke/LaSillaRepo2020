@@ -89,8 +89,7 @@ Night (2):
 |   01:02:56   |   SA 95-107       |     Ha   |      320         |    1.09    |     clear         |                              |        yes      |      yes     |
 |   01:14:07   |   NGC2217     |    B    |      80         |    0.87    |        clear      |            low counts                  |       no       |     yes      |
 |    01:17:13  |   NGC2217      |    B    |       300        |    0.82    |         clear     |                              |        no      |     yes      |
-
-|    01:23:30  |   NGC2217      |    B    |        300       |   0.82     |         clear     |             offset 7" RA+                 |      yes        |     no      |
+|    01:23:30  |   NGC2217      |    B    |        300       |   0.82     |        clear     |             offset 7" RA+                 |      no        |     yes      |
 |    01:29:33  |   NGC2217      |    B    |    300           |        |       clear       |           offset t" DEC-                   |       no        |      yes     |
 |  01:36:24    |   NGC2217      |    V    |        100       |    0.96    |      clear        |          low counts                    |       no       |     yes      |
 |   01:39:26   |    NGC2217     |     V   |      200         |        |        clear      |                              |          no    |     yes      |
